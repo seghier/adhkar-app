@@ -25,7 +25,7 @@ except ImportError:
 
 # ===== الإعدادات =====
 # 🔑 ضع مفتاح API هنا مباشرة (أو اتركه فارغاً ليطلبه منك البرنامج)
-API_KEY = "AIzaSyBvF2OyGb6eqfht-kRh1d_jz0xps3s45Tc"  # مثال: "AIzaSy..."
+API_KEY = "......"
 
 # مجلد حفظ الصور
 OUTPUT_DIR = Path(r"h:\amel\pure\adhkar-app\icons")
